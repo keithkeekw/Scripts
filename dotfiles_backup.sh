@@ -29,7 +29,7 @@ cp -r general ~/Documents/dotfiles/.config/nvim;
 cp -r keys ~/Documents/dotfiles/.config/nvim;
 cp -r themes ~/Documents/dotfiles/.config/nvim;
 cp -r vim-plug ~/Documents/dotfiles/.config/nvim;
-cd ../ranger;
+cd ~/.config/ranger;
 cp rc.conf ~/Documents/dotfiles/.config/ranger;
 cp rifle.conf ~/Documents/dotfiles/.config/ranger;
 echo "Backup Completed...";
